@@ -1,0 +1,6 @@
+blog.ekoparty.org. 300 IN A 51.255.1.138
+dev.ekoparty.org. 300 IN A 178.62.175.101
+m.ekoparty.org. 300 IN CNAME ghs.googlehosted.com.
+mail.ekoparty.org. 300 IN A 188.226.232.97
+old.ekoparty.org. 300 IN CNAME dev.ekoparty.org.
+www.ekoparty.org. 300 IN A 51.255.1.138
